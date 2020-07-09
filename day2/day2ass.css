@@ -1,0 +1,99 @@
+.topcontainer {
+    width: 100%;
+    height: 100px;
+    background-color: #ce0505;
+}
+.logo {
+    width: 70px;
+    height: 70px;
+    margin-left: 55px;
+    background-color: white;
+    border-radius: 50%;
+    font-size: 47px;
+    line-height: 1.5;
+    display: inline-block;
+    margin-top: 15px;
+    float: left;
+    padding-left: 10px;
+    padding-top: 5px;
+}
+.btn1 {
+    width: 90px;
+    margin-left: 950px;
+    background-color: #ce0505;
+    border: none;
+    color: white;
+    margin-top: 40px;
+    position: absolute;
+}
+.btn2 {
+    width:181px;
+    height: 40px;
+    margin-left:1050px ;
+    border: solid 1px white;
+    background-color: #ce0505;
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 27px;
+}
+.idlybackground {
+    background: url('idly.png') no-repeat;
+    width: 1130px;
+    height: 550px;
+    object-fit: contain;
+    margin-top: 33px;
+   background-size: cover;
+}
+.maintitle {
+    font-size: 25px;
+    margin-top: 25px;
+    margin-left: 25px;
+    font-weight: 600;
+    color: #192f60;
+}
+.container2 {
+    width: 100%;
+    height: 50px;
+    position: absolute;
+}
+.overview {
+    font-size: 18px;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-weight: 600;
+    position: absolute;
+}
+.contact {
+    font-size: 18px;
+    margin-left:170px ;
+    font-weight: 600;
+    margin-top: 20px;
+}
+.hori {
+    margin-top: 45px;
+    width: 1366px;
+    margin-left: 25px;
+    color: black;
+}
+.phone {
+    font-size: 20px;
+    margin-left: 30px;
+    color: #192f60;
+}
+.number {
+    color: #f67082;
+    margin-left: 25px;
+    line-height: 0.2;
+    font-size: 18px;
+}
+.bigchilly {
+    margin-left: 25px;
+    font-size: 18px;
+    font-weight: bold;
+}
+.bigdis {
+    font-weight: normal;
+    line-height: 0.2;
+    color: #636f88;
+}
+
