@@ -1,0 +1,105 @@
+.imag {
+    background:linear-gradient(to bottom,rgba(157,14,14,0),#4f0707),url('https://i.postimg.cc/76kStDSv/food-wallpaper.png');
+    border-style: solid ;
+    border-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 40px;
+    height: 480px;
+}
+.logo {
+    background:linear-gradient(to bottom,rgba(157,14,14,0),#4f0707),url("kannadigaru.png");
+    background-color:whitesmoke;
+    height: 147px;
+    width: 147px;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    line-height: 1.51;
+    border: none;
+}
+.heading {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+}
+.locselector {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+.locdropdown {
+    width: 250px;
+    height: 50px;
+    border-radius: 0%;
+    font-size: 20px;
+    margin: auto;
+}
+.hotel {
+    background: url("https://img.icons8.com/material-rounded/24/000000/search.png") left no-repeat;
+    border: none;
+    width: 370px;
+    height: 50px;
+    border-radius: 0%;
+    font-size: 20px;
+    padding-left: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+.quicksearchcontainer {
+    margin-top: 50px;
+    margin-left: 115px;
+}
+.quicksearchheading {
+    text-align: left;
+    color: #192f60;
+    font-size:30px;
+   line-height: 1.5;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.quicksearchsubheading {
+    text-align: left;
+    color: gray;
+    line-height: .01;
+    letter-spacing: normal;
+    font-size:18px;
+    font-weight: normal;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.titlecontainer {
+    box-shadow: 0 3px 6px gray;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    width:400px;
+    height: 140px;
+    background-color: white;
+    display: inline-block;
+    margin-top: 10px;
+    
+}
+.titlecomponent1 {
+    width:50%;
+    float: left;
+}
+.titlecomponent2 {
+    width:50%;
+    float: left;
+    margin-top: 20px;
+}
+.componentHeading {
+    text-align: left;
+    color:#192f60;
+    font-size:18px;
+    font-weight: bold;
+
+}
+.componentSubHeading {
+    text-align: left;
+    color:gray;
+    font-size:14px;
+    margin-top: 10px;
+    line-height: 1.2;
+}
+
